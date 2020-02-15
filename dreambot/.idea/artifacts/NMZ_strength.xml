@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NMZ_strength">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="NMZ_strength.jar">
+      <element id="module-output" name="NMZ_strength" />
+    </root>
+  </artifact>
+</component>

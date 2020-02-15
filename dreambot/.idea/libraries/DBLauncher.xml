@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="DBLauncher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/DBLauncher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

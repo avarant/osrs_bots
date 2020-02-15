@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alchemist/Alchemist.iml" filepath="$PROJECT_DIR$/Alchemist/Alchemist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BlastFurnace/BlastFurnace.iml" filepath="$PROJECT_DIR$/BlastFurnace/BlastFurnace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CanifisAgility/CanifisAgility.iml" filepath="$PROJECT_DIR$/CanifisAgility/CanifisAgility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GuildFisher/GuildFisher.iml" filepath="$PROJECT_DIR$/GuildFisher/GuildFisher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NMZ_strength/NMZ_strength.iml" filepath="$PROJECT_DIR$/NMZ_strength/NMZ_strength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TickPrayer/TickPrayer.iml" filepath="$PROJECT_DIR$/TickPrayer/TickPrayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dreambot.iml" filepath="$PROJECT_DIR$/dreambot.iml" />
+    </modules>
+  </component>
+</project>

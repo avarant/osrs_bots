@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GuildFisher">
+    <output-path>$USER_HOME$/DreamBot/Scripts</output-path>
+    <root id="archive" name="GuildFisher.jar">
+      <element id="module-output" name="GuildFisher" />
+    </root>
+  </artifact>
+</component>
